@@ -3,6 +3,6 @@
  void main( )
 {
   printf("added the lab.txt file");
-  printf("changes have bee updated");
+ 
 }
 
